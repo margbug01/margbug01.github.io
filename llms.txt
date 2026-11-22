@@ -1,0 +1,14 @@
+# margbug01 — Native Go (MyGo) Desktop Apps
+
+> Open-source native desktop applications for Windows and macOS built with Go and [MyGo](https://github.com/egoist/mygo) (no Electron).
+
+## Projects
+
+- [MySpotify](https://margbug01.github.io/MySpotify/en.html) ([中文](https://margbug01.github.io/MySpotify/), [Italiano](https://margbug01.github.io/MySpotify/it.html), [llms.txt](https://margbug01.github.io/MySpotify/llms.txt)): Lightweight unofficial Spotify desktop client (<10 MB, ~190 MB RAM) with floating desktop lyrics, multi-source lyrics fallback, music videos, video podcasts, Windows equalizer and Spotify Connect.
+- [Mami](https://margbug01.github.io/mami/): Open-source voice input and selection translation desktop app for Windows and macOS with customizable ASR and LLM polishing.
+- [MyShoes (ShoesGUI)](https://margbug01.github.io/ShoesGUI/): Native Windows and macOS proxy desktop client powered by the shoes core with subscriptions, latency testing and rule routing.
+- [Candle (OpenBar)](https://margbug01.github.io/OpenBar/): Native market charting desktop app for Binance spot/perps, CME futures and US equities with technical indicators and risk/reward drawing tools.
+
+## Source
+
+- [GitHub Profile](https://github.com/margbug01)
